@@ -8,3 +8,9 @@
     height: 70px;
     width: 70px;
 }
+
+.product-list {
+    border: 1px solid black;
+    height: 100px;
+    width: 750px;
+}
